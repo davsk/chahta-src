@@ -1,8 +1,8 @@
 baseURL = "/chahta.davsk.net"
 languageCode = "en-us"
 summaryLength = "10"
-theme = "kross-hugo"
-title = "Chahta"
+theme = "chahta-hugo"
+title = "The Five Tribes of Oklahoma"
 [[menu.main]]
 URL = "about"
 name = "About"
